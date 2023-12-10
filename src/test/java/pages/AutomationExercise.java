@@ -44,6 +44,6 @@ public class AutomationExercise {
         @FindBy(xpath="//a[@class='btn btn-primary']")
         public WebElement deleteAccountButtonvisible;
         @FindBy(xpath="//div[@class='radio-inline'][2]")
-        public WebElement webElementTitle;
+        public WebElement webElementTitle1;
 
     }
