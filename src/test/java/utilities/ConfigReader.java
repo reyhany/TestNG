@@ -19,3 +19,11 @@ public class ConfigReader {
     }
 }
 
+/*
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/reyhany/team01_testNG.git
+git push -u origin main
+ */
